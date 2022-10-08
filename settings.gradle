@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='YYYGlasses_R2'
